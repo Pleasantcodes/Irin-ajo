@@ -31,5 +31,7 @@ M.Autocomplete.init(ac, {
       "Jamaica": null,
       "Europe": null,
       "The Bahamas": null,
+      "Lagos": null,
+      "cape verde": null,
     }
   });
